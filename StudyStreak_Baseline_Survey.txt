@@ -1,0 +1,114 @@
+1. Demographic Information
+
+  Age Group:
+    14-18
+    18-24
+    25+
+
+  Occupation/Role:
+    High School Student
+    University Student
+    Adult Learner
+    Educator
+  
+  Location: (Optional, for understanding regional differences)
+
+2. Study Habits
+    
+  How many hours do you study per week?
+      1-5 hours
+      6-10 hours
+      11-20 hours
+      More than 20 hours
+               
+  What methods do you currently use to track your study progress? (Multiple choices)
+      Paper planner/agenda
+      Digital tools (e.g., calendar apps, note-taking apps)
+      Not tracking my study time
+      Other (please specify)
+             
+  Do you typically use any time management techniques? (e.g., Pomodoro, time blocking, etc.)
+      Yes
+      No
+             
+  Which study techniques do you find most effective? (Multiple choices)
+    Pomodoro Technique
+    Flow state method
+    Self-testing
+    Active recall
+    Other (please specify)
+             
+3. Gamification Preferences
+             
+  Do you enjoy using apps or games that reward you for completing tasks or achieving goals?
+    Yes
+    No
+             
+  Would you be motivated to study more if you earned rewards (points, badges, etc.) for your study achievements?
+    Yes
+    No
+             
+  What types of rewards would be most appealing to you? (Multiple choices)
+    Virtual rewards (badges, points, etc.)
+    Real-world rewards (gift cards, discounts, etc.)
+    Recognition on leaderboards
+    Social recognition (sharing achievements with peers)
+    Other (please specify)
+             
+4. App Feature Preferences
+             
+  What features would you most like to see in a study tracking app? (Rank the following)
+    Study session timer (e.g., Pomodoro)
+    Progress tracking (e.g., streaks, analytics)
+    Goal setting (e.g., daily, weekly study goals)
+    Rewards and achievements system
+    Study group or community features
+    Reminders and notifications
+    Integration with other study tools (e.g., note-taking apps, calendars)
+             
+  How important is it for you to have a community or peer support features in your study app?
+    Very important
+    Somewhat important
+    Not important
+             
+  Would you be interested in joining study groups within the app to collaborate with others?
+    Yes
+    No
+             
+5. Usability and Design Preferences
+  How important is app design and usability for you in choosing study tools?
+    Very important
+    Somewhat important
+    Not important
+             
+  Do you prefer a simple, minimalist design or a more feature-rich, detailed interface?
+    Simple, minimalist
+    Detailed, feature-rich
+             
+  What devices do you primarily use for studying? (Multiple choices)
+    Smartphone
+    Tablet
+    Laptop/Desktop
+    Other (please specify)
+             
+6. Challenges and Pain Points
+    What is your biggest challenge when it comes to studying? (Multiple choices)
+    Staying focused
+    Managing time effectively
+    Finding motivation
+    Keeping track of progress
+    Balancing studying with other activities (e.g., work, social life)
+    Other (please specify)
+             
+  Have you used any study tracking apps before?
+    Yes
+    No
+  If you have used study tracking apps, what did you like or dislike about them?
+    (Open-ended question)
+             
+7. Final Thoughts and Suggestions
+  What features or improvements would make a study app most helpful for you?
+    (Open-ended question)
+  Would you be interested in participating in further testing or beta versions of this app?
+    Yes
+    No
